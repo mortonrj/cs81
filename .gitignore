@@ -1,0 +1,9 @@
+# General
+.DS_STORE
+
+#Data
+/collaboratory/result_data/*
+/collaboratory/MNIST-data/*
+/collaboratory/data/*
+/collaboratory/old/*
+/collaboratory/venv/*
